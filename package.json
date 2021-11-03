@@ -1,0 +1,19 @@
+{
+  "name": "dev_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thgoas/dev_lab.git"
+  },
+  "author": "Thiago Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thgoas/dev_lab/issues"
+  },
+  "homepage": "https://github.com/thgoas/dev_lab#readme"
+}
